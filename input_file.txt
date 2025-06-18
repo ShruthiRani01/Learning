@@ -1,1 +1,2 @@
 This is the first line and first push into remote repository
+This is second to check git restore will work after push to branch and local changes will this line there or not -- to check restore to initial pull or latest push 
