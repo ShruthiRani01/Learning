@@ -1,2 +1,2 @@
 adding this line to switch to main branch after commit without push and check its behaviour
-adding this aline againg to check
+adding this aline again to check nothing changes able to switch and changes won't reflect  
