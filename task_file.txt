@@ -1,2 +1,8 @@
 adding this line to switch to main branch after commit without push and check its behaviour
-adding this aline again to check nothing changes able to switch and changes won't reflect adding to thrid line
+adding this aline again to check nothing changes able to switch and changes won't reflect
+adding line to make merge conflict in different line
+line 1
+line 2
+line 3
+line 4
+line 5
