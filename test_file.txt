@@ -1,3 +1,7 @@
 Adding this file to make merge conflict and resolve ---> FIRST COMMIT in Workspace2
+<<<<<<< Updated upstream
 
 Adding this line to make merge conflict and resolve ---> Second COMMIT in Workspace 3
+=======
+Adding this file to make merge conflict and resolve ---> THIRD COMMIT in Workspace3
+>>>>>>> Stashed changes
