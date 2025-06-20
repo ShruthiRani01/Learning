@@ -8,3 +8,4 @@ line 4
 line 5 -- changes in differenet line
 
 adding line to do commit message
+adding this aline again to check nothing changes able to switch and changes won't reflect - making merge conflict changes push into repo  
