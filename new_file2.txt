@@ -1,2 +1,3 @@
 dding this line for commit 4
 adding this line for commit 5
+adding new file in amend changes check
