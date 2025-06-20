@@ -5,4 +5,4 @@ line 1 -- Chnaging this line to check merge conflict in different line in same f
 line 2
 line 3
 line 4
-line 5 - changes in different line to check merge conflict
+line 5 -- changes in differenet line  
