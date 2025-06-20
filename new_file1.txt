@@ -2,3 +2,4 @@ adding file 1 to commit 1
 adding file 1 to commit 2
 changes same file to commit 1
 changes same file to commit 2
+changes same file to commit 3
